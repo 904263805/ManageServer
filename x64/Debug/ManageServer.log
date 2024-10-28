@@ -1,0 +1,9 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 5.12.12
+  ManageSql.cpp
+  ManageServer.cpp
+  main.cpp
+  qrc_ManageServer.cpp
+  moc_ManageServer.cpp
+  moc_ManageSql.cpp
+  ManageServer.vcxproj -> C:\Users\Administrator\source\repos\ManagementSystem\x64\Debug\ManageServer.exe
